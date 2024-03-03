@@ -1,4 +1,5 @@
 # InfoCard
-A small card to display user information in a SwiftUI application
+A small card to display user information in a SwiftUI application. 
 
-This project is based on the L&D course brought to you by The App Brewery.
+Utilizes free fonts provided by [Google Fonts](https://fonts.google.com/).<br>
+This project is based on the L&D course brought to you by [The App Brewery](https://appbrewery.com/).
